@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar 14 11:26:23 2021
+
+@author: user
+"""
+
+for i in range(5,0,-1):#(值)
+
+    for a in range(0,i):#(次數)
+        print('*',end='')
+    
+    print()
+for i in range(2,6,1):#(值)
+
+    for a in range(0,i):#(次數)
+        print('*',end='')
+    
+    print()
+
